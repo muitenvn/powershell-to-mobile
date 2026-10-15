@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PowerShell</string>
+    <string name="accessibility_service_description">PowerShell Accessibility Automation Service cho phép chạm màn hình, thực hiện cử chỉ vuốt, bấm phím và điều khiển hệ thống thực tế theo lệnh PowerShell.</string>
+</resources>
